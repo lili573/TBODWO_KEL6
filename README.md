@@ -5,9 +5,9 @@ Program Studi Sistem Informasi <br/>
 Fakultas Ilmu Komputer <br/>
 UPN "Veteran" Jawa Timur<br/>
 Nama Anggota :<br/>
-21082010044		Amalia Putri
-21082010046		Heldha Ayu Setia
-21082010047		Cintami Prasista Wibowo
-21082010072		Verina Renata Putri
-21082010078		Ismiazzah Kamilah
+21082010044		Amalia Putri<br/>
+21082010046		Heldha Ayu Setia<br/>
+21082010047		Cintami Prasista Wibowo<br/>
+21082010072		Verina Renata Putri<br/>
+21082010078		Ismiazzah Kamilah<br/>
 <br/>
